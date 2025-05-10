@@ -39,6 +39,7 @@ SELECT store_id,
            ELSE 'Normal'
        END AS status
 FROM store_revenue;
+```
 ---
 
 ## 🗃️ Data Sources
