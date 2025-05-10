@@ -113,7 +113,7 @@ This project uses five synthetic CSV datasets:
 ### Store Performance Overview
 ![Store Overview](images/store_overview.png)
 
-### Time-Based Revenue Trends (Optional)
+### Time-Based Revenue Trends
 ![Trend Analysis](images/trend_analysis.png)
 
 ---
