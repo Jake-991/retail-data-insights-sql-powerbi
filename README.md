@@ -14,7 +14,7 @@ A business-focused analytics project using SQL for data transformation and insig
 - [📊 Dashboard Highlights](#-dashboard-highlights)
 - [📊 Power BI Visualizations](#-power-bi-visualizations)
 - [🔍 Key Takeaways](#-key-takeaways)
-- [Conclusion](#conclusion)
+- [✅ Conclusion](#conclusion)
 - [📝 License](#-license)
 - [📬 Contact](#-contact)
 ---
@@ -140,7 +140,7 @@ This project uses five synthetic CSV datasets:
 - Data modeling and DAX were used to simulate stakeholder KPIs.
 - The project demonstrates readiness for junior-level business/data analyst roles with real-world expectations.
 ---
-## Conclusion
+## ✅ Conclusion
 
 This project provided valuable insights into product performance, store efficiency, and operational challenges. By leveraging SQL for data analysis and Power BI for visualization, we identified key areas for improvement and strategic opportunities for the retail business.
 
