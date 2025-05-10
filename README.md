@@ -3,6 +3,13 @@
 A business-focused analytics project using SQL for data transformation and insight generation, with Power BI for visual storytelling. This project simulates a real-world scenario where a retailer wants to understand product performance, store efficiency, and operational challenges across sales, inventory, and returns.
 
 ---
+## Table of Contents
+- [Project Overview](#project-overview)
+- [Tools & Technologies](#tools--technologies)
+- [Data Sources](#data-sources)
+- [SQL Analysis](#sql-analysis)
+- [Power BI Dashboards](#power-bi-dashboards)
+- [Conclusion](#conclusion)
 
 ## 📌 Project Objective
 
