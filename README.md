@@ -14,7 +14,10 @@ A business-focused analytics project using SQL for data transformation and insig
 - [📊 Dashboard Highlights](#-dashboard-highlights)
 - [📊 Power BI Visualizations](#-power-bi-visualizations)
 - [🔍 Key Takeaways](#-key-takeaways)
+- [Conclusion](#conclusion)
+- [📝 License](#-license)
 - [📬 Contact](#-contact)
+---
 
 ## 📌 Project Objective
 
