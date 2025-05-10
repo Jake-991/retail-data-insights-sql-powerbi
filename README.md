@@ -136,7 +136,10 @@ This project uses five synthetic CSV datasets:
 - Power BI enabled flexible presentation of actionable insights.
 - Data modeling and DAX were used to simulate stakeholder KPIs.
 - The project demonstrates readiness for junior-level business/data analyst roles with real-world expectations.
+---
+## Conclusion
 
+This project provided valuable insights into product performance, store efficiency, and operational challenges. By leveraging SQL for data analysis and Power BI for visualization, we identified key areas for improvement and strategic opportunities for the retail business.
 ---
 
 ## 📬 Contact
