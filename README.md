@@ -21,6 +21,11 @@ To help business stakeholders make informed decisions by analyzing:
 - **DAX** – Custom measures for profit, return rate, revenue per square foot
 - **Excel** – Preload data review
 - **Data Modeling** – Schema design and table relationships
+### 📂 SQL Files  
+Explore detailed queries for each phase:
+- [Product Analysis](./sql/1_product-performance/)
+- [Store Performance](./sql/2_store-performance/)
+- [Advanced Insights](./sql/3_advanced-insights/)
 ## 🧾 Example SQL Logic
 
 This project was SQL-driven. Here's an example query to flag underperforming stores based on revenue:
