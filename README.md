@@ -4,7 +4,7 @@ A business-focused analytics project using SQL for data transformation and insig
 
 ---
 ## Table of Contents
-- [Project Overview](#project-overview)
+- [Project Overview](#Project Objective)
 - [Tools & Technologies](#tools--technologies)
 - [Data Sources](#data-sources)
 - [SQL Analysis](#sql-analysis)
