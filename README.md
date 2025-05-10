@@ -142,6 +142,11 @@ This project uses five synthetic CSV datasets:
 This project provided valuable insights into product performance, store efficiency, and operational challenges. By leveraging SQL for data analysis and Power BI for visualization, we identified key areas for improvement and strategic opportunities for the retail business.
 
 ---
+## 📝 License
+
+This project is licensed under the MIT License — see the [LICENSE](LICENSE) file for details.
+
+---
 ## 📬 Contact
 
 Created by **[Jake Ma]** — [[LinkedIn Profile](https://www.linkedin.com/in/jake-ma-0a4278282/)]  
