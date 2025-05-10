@@ -4,12 +4,17 @@ A business-focused analytics project using SQL for data transformation and insig
 
 ---
 ## Table of Contents
-- [Project Overview](#Project-Objective)
-- [Tools & Technologies](#tools--technologies)
-- [Data Sources](#data-sources)
-- [SQL Analysis](#sql-analysis)
-- [Power BI Dashboards](#power-bi-dashboards)
-- [Conclusion](#conclusion)
+- [📌 Project Objective](#project-objective)
+- [🛠 Tools & Skills Used](#tools--skills-used)
+- [📂 SQL Files](#sql-files)
+- [🧾 Example SQL Logic](#example-sql-logic)
+- [🗃️ Data Sources](#data-sources)
+- [🧠 Key Business Questions](#key-business-questions)
+- [🔄 ETL & Modeling Approach](#etl--modeling-approach)
+- [📊 Dashboard Highlights](#dashboard-highlights)
+- [📊 Power BI Visualizations](#power-bi-visualizations)
+- [🔍 Key Takeaways](#key-takeaways)
+- [📬 Contact](#contact)
 
 ## 📌 Project Objective
 
