@@ -105,9 +105,16 @@ This project uses five synthetic CSV datasets:
 
 ---
 
-## 📈 Screenshots
+## 📊 Power BI Visualizations
 
-_Screenshots of dashboards_
+### Product Performance Overview
+![Product Overview](images/product_overview.png)
+
+### Store Performance Overview
+![Store Overview](images/store_overview.png)
+
+### Time-Based Revenue Trends (Optional)
+![Trend Analysis](images/trend_analysis.png)
 
 ---
 
