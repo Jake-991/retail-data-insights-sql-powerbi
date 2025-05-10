@@ -23,8 +23,8 @@ To help business stakeholders make informed decisions by analyzing:
 - **Data Modeling** – Schema design and table relationships
 ### 📂 SQL Files  
 Explore detailed queries for each phase:
-- [Product Analysis](./sql/2_product-performance/)
-- [Store Performance](./sql/3_store-performance/)
+- [Product Analysis](./sql/2_product-performance-analysis/)
+- [Store Performance](./sql/3_store-performance-analysis/)
 - [Advanced Insights](./sql/4_advanced-insights/)
 ## 🧾 Example SQL Logic
 
