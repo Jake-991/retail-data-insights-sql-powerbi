@@ -9,7 +9,7 @@ A business-focused analytics project using SQL for data transformation and insig
 - [📂 SQL Files](#-sql-files)
 - [🧾 Example SQL Logic](#-example-sql-logic)
 - [🗃️ Data Sources](#-data-sources)
-- [🧠 Key Business Questions](#-key-business-questions)
+- [🎯 Business Challenges & Decision Goals](#🎯-Business-Challenges--Decision-Goals)
 - [🔄 ETL & Modeling Approach](#-etl--modeling-approach)
 - [📊 Dashboard Highlights](#-dashboard-highlights)
 - [📊 Power BI Visualizations](#-power-bi-visualizations)
@@ -73,22 +73,26 @@ This project uses five synthetic CSV datasets:
 
 ---
 
-## 🧠 Key Business Questions
+## 🎯 Business Challenges & Decision Goals
+This project supports key operational and strategic decisions across the retail chain. The goal is to go beyond reporting and provide actionable insights to optimize product offerings, store performance, and inventory strategies.
 
-### 📦 Product Performance
-- What are the top-selling and most profitable products?
-- Which products have high return rates (potential quality issues)?
-- Which products underperform in both revenue and volume?
+📦 Product Strategy
 
-### 🏬 Store Performance
-- Which stores generate the most revenue?
-- Are any stores underperforming based on revenue vs. average?
-- Which stores have high return rates or low stock levels?
+Which products consistently drive revenue and margin, and which underperform?
 
-### 📅 Time Trend Analysis
-- How does revenue fluctuate over time?
-- Which months drive the most sales?
-- Are weekends stronger than weekdays?
+Are any products generating excessive returns that signal quality or customer experience issues?
+
+🏬 Store Optimization
+
+Which stores are underperforming relative to the company average or regional peers?
+
+How efficient is each store in terms of revenue per square foot and inventory turnover?
+
+📅 Sales Planning
+
+What are the peak and low sales periods, and how should promotions be timed accordingly?
+
+Are there differences in weekday vs. weekend sales patterns that affect staffing or supply planning?
 
 ---
 
@@ -135,14 +139,22 @@ This project uses five synthetic CSV datasets:
 
 ## 🔍 Key Takeaways
 
-- SQL was used as the primary engine for cleaning, transformation, and logic.
-- Power BI enabled flexible presentation of actionable insights.
-- Data modeling and DAX were used to simulate stakeholder KPIs.
-- The project demonstrates readiness for junior-level business/data analyst roles with real-world expectations.
+✅ Transformed raw transactional data into business-ready insights using SQL and Power BI
+
+🔍 Identified high-risk products using return rate thresholds and profitability metrics
+
+🏬 Flagged underperforming stores based on revenue benchmarks and store efficiency (e.g., per sq. ft.)
+
+📈 Revealed time-based trends and regional performance patterns to guide inventory and sales planning
+
+💡 Designed dashboard for retail managers to take specific actions — restock smarter, cut loss-makers, and optimize promotions
+
 ---
 ## ✅ Conclusion
 
 This project provided valuable insights into product performance, store efficiency, and operational challenges. By leveraging SQL for data analysis and Power BI for visualization, we identified key areas for improvement and strategic opportunities for the retail business.
+
+🔧 This project mirrors real-world analytics use cases in retail — demonstrating skills beyond junior-level by connecting technical outputs to operational and strategic decision points.
 
 ---
 ## 📝 License
