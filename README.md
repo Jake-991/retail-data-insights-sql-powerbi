@@ -21,7 +21,7 @@ A business-focused analytics project using SQL for data transformation and insig
 
 ---
 
-## Project Objective 📌
+## Project Objective 
 
 To help business stakeholders make informed decisions by analyzing:
 - Which products drive the most revenue and profit
@@ -31,7 +31,7 @@ To help business stakeholders make informed decisions by analyzing:
 
 ---
 
-## 🛠 Tools & Skills Used 
+##  Tools & Skills Used 
 
 - **SQL (MySQL Workbench)** – Joins, CTEs, aggregation, CASE logic
 - **Power BI** – Dashboards, KPI cards, DAX measures, visual design
@@ -41,7 +41,7 @@ To help business stakeholders make informed decisions by analyzing:
 
 ---
 
-## 📂 SQL Files
+##  SQL Files
 
 Explore raw SQL logic and business rules:
 - [`Product Analysis`](sql/2_product-performance-analysis/)
@@ -50,7 +50,7 @@ Explore raw SQL logic and business rules:
 
 ---
 
-## 🧾 Example SQL Logic
+##  Example SQL Logic
 
 Here's an example query to flag underperforming stores based on revenue:
 
@@ -71,7 +71,7 @@ FROM store_revenue;
 ```
 ---
 
-## 🗃️ Data Sources
+##  Data Sources
 
 This project uses five synthetic CSV datasets:
 - `sales.csv` – Transaction-level records
@@ -82,7 +82,7 @@ This project uses five synthetic CSV datasets:
 
 ---
 
-## 🎯 Business Challenges & Decision Goals
+##  Business Challenges & Decision Goals
 This project supports key operational and strategic decisions across the retail chain. The goal is to go beyond reporting and provide actionable insights to optimize product offerings, store performance, and inventory strategies.
 
 📦 Product Strategy
@@ -105,7 +105,7 @@ Are there differences in weekday vs. weekend sales patterns that affect staffing
 
 ---
 
-## 🔄 ETL & Modeling Approach
+##  ETL & Modeling Approach
 
 - Imported all CSVs into SQL and used joins/CTEs to perform calculations.
 - Modeled clean, joined tables in Power BI using relationships on `product_id` and `store_id`.
@@ -114,7 +114,7 @@ Are there differences in weekday vs. weekend sales patterns that affect staffing
 
 ---
 
-## 📊 Dashboard Highlights
+##  Dashboard Highlights
 
 ### ✅ Product Page
 - Top 10 products by revenue and quantity
@@ -133,7 +133,7 @@ Are there differences in weekday vs. weekend sales patterns that affect staffing
 
 ---
 
-## 📊 Power BI Visualizations
+##  Power BI Visualizations
 
 ### Product Performance Overview
 ![Product Overview](images/product_overview.png)
@@ -146,7 +146,7 @@ Are there differences in weekday vs. weekend sales patterns that affect staffing
 
 ---
 
-## 🔍 Key Takeaways
+##  Key Takeaways
 
 ✅ Transformed raw transactional data into business-ready insights using SQL and Power BI
 
@@ -159,19 +159,19 @@ Are there differences in weekday vs. weekend sales patterns that affect staffing
 💡 Designed dashboard for retail managers to take specific actions — restock smarter, cut loss-makers, and optimize promotions
 
 ---
-## ✅ Conclusion
+##  Conclusion
 
 This project provided valuable insights into product performance, store efficiency, and operational challenges. By leveraging SQL for data analysis and Power BI for visualization, we identified key areas for improvement and strategic opportunities for the retail business.
 
 🔧 This project mirrors real-world analytics use cases in retail — demonstrating skills beyond junior-level by connecting technical outputs to operational and strategic decision points.
 
 ---
-## 📝 License
+##  License
 
 This project is licensed under the MIT License — see the [LICENSE](LICENSE) file for details.
 
 ---
-## 📬 Contact
+##  Contact
 
 Created by **[Jake Ma]** — [[LinkedIn Profile](https://www.linkedin.com/in/jake-ma-0a4278282/)]  
 Let’s connect if you’re hiring or want to discuss practical data storytelling.
