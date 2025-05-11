@@ -3,20 +3,22 @@
 A business-focused analytics project using SQL for data transformation and insight generation, with Power BI for visual storytelling. This project simulates a real-world scenario where a retailer wants to understand product performance, store efficiency, and operational challenges across sales, inventory, and returns.
 
 ---
+
 ## Table of Contents
-- [📌 Project Objective](#project-objective)
-- [🛠 Tools & Skills Used](#tools--skills-used)
-- [📂 SQL Files](#sql-files)
-- [🧾 Example SQL Logic](#example-sql-logic)
-- [🗃️ Data Sources](#data-sources)
-- [🎯 Business Challenges & Decision Goals](#business-challenges--decision-goals)
-- [🔄 ETL & Modeling Approach](#etl--modeling-approach)
-- [📊 Dashboard Highlights](#dashboard-highlights)
-- [📊 Power BI Visualizations](#power-bi-visualizations)
-- [🔍 Key Takeaways](#key-takeaways)
-- [✅ Conclusion](#conclusion)
-- [📝 License](#license)
-- [📬 Contact](#contact)
+- [📌 Project Objective](#project-objective-)
+- [🛠 Tools & Skills Used](#tools--skills-used-)
+- [📂 SQL Files](#sql-files-)
+- [🧾 Example SQL Logic](#example-sql-logic-)
+- [🗃️ Data Sources](#data-sources-)
+- [🎯 Business Challenges & Decision Goals](#business-challenges--decision-goals-)
+- [🔄 ETL & Modeling Approach](#etl--modeling-approach-)
+- [📊 Dashboard Highlights](#dashboard-highlights-)
+- [📊 Power BI Visualizations](#power-bi-visualizations-)
+- [🔍 Key Takeaways](#key-takeaways-)
+- [✅ Conclusion](#conclusion-)
+- [📝 License](#license-)
+- [📬 Contact](#contact-)
+
 ---
 
 ## 📌 Project Objective
@@ -36,14 +38,21 @@ To help business stakeholders make informed decisions by analyzing:
 - **DAX** – Custom measures for profit, return rate, revenue per square foot
 - **Excel** – Preload data review
 - **Data Modeling** – Schema design and table relationships
-### 📂 SQL Files  
+
+---
+
+## 📂 SQL Files
+
 Explore detailed queries for each phase:
 - [Product Analysis](./sql/2_product-performance-analysis/)
 - [Store Performance](./sql/3_store-performance-analysis/)
 - [Advanced Insights](./sql/4_advanced-insights/)
+
+---
+
 ## 🧾 Example SQL Logic
 
-This project was SQL-driven. Here's an example query to flag underperforming stores based on revenue:
+Here's an example query to flag underperforming stores based on revenue:
 
 ```sql
 WITH store_revenue AS (
@@ -59,7 +68,6 @@ SELECT store_id,
            ELSE 'Normal'
        END AS status
 FROM store_revenue;
-```
 ---
 
 ## 🗃️ Data Sources
