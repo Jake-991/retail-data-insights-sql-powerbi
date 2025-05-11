@@ -22,7 +22,7 @@ A business-focused analytics project using SQL for data transformation and insig
 
 ---
 
-## Project Objective 📌
+## 📌 Project Objective 
 
 To help business stakeholders make informed decisions by analyzing:
 - Which products drive the most revenue and profit
@@ -32,7 +32,7 @@ To help business stakeholders make informed decisions by analyzing:
 
 ---
 
-## Tools & Skills Used 🛠
+## 🛠 Tools & Skills Used 
 
 - **SQL (MySQL Workbench)** – Joins, CTEs, aggregation, CASE logic
 - **Power BI** – Dashboards, KPI cards, DAX measures, visual design
