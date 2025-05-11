@@ -43,10 +43,10 @@ To help business stakeholders make informed decisions by analyzing:
 
 ## 📂 SQL Files
 
-Explore detailed queries for each phase:
-- [Product Analysis](sql/2_product-performance-analysis/)
-- [Store Performance](sql/3_store-performance-analysis/)
-- [Advanced Insights](sql/4_advanced-insights/)
+Explore raw SQL logic and business rules:
+- [`Product Analysis`](sql/2_product-performance-analysis/)
+- [`Store Performance`](sql/3_store-performance-analysis/)
+- [`Advanced Insights`](sql/4_advanced-insights/)
 
 ---
 
