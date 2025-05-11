@@ -13,11 +13,11 @@ A business-focused analytics project using SQL for data transformation and insig
 - [🎯 Business Challenges & Decision Goals](#business-challenges--decision-goals)
 - [🔄 ETL & Modeling Approach](#etl--modeling-approach)
 - [📊 Dashboard Highlights](#dashboard-highlights)
-- [📊 Power BI Visualizations](#power-bi-visualizations)
+- [📈 Power BI Visualizations](#power-bi-visualizations)
 - [🔍 Key Takeaways](#key-takeaways)
 - [✅ Conclusion](#conclusion)
-- [📝 License](#license)
 - [📬 Contact](#contact)
+- [📝 License](#license)
 
 ---
 
