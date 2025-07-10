@@ -173,5 +173,5 @@ This project is licensed under the MIT License — see the [LICENSE](LICENSE) fi
 ---
 ##  Contact
 
-Created by **[Jake Ma]** — [[LinkedIn Profile](https://www.linkedin.com/in/jake-ma-0a4278282/)]  
+Created by **[Jake Ma]** — [[LinkedIn Profile](https://www.linkedin.com/in/jakexm-analytics/)]  
 Let’s connect if you’re hiring or want to discuss practical data storytelling.
